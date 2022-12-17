@@ -1,1 +1,3 @@
-# blockstream_store
+# Blockstream Store
+
+Blockstream Store related stuff. Like promos, discounts and etc...
