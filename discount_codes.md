@@ -4,7 +4,7 @@
 
 maximus (10% off)
 
-blockstream2022 (10 off)
+blockstream2022 (10% off)
 
 ## Can't be used combined
 blockstream10 (10% off) 
