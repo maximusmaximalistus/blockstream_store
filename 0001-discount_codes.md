@@ -1,7 +1,9 @@
 # Tested at 30 Jan 2023
 
 ## Can't be used combined
+
 blockstream10 (10% off) 
+
 maximus (10% off)
 
 ## Extra
@@ -16,4 +18,5 @@ Be aware of shipping costs and customs issues. Verify if there is any customs is
 EU resellers:
 
 Austria https://gobrrr.me 
+
 UK https://bitcoinbrabant.com/
