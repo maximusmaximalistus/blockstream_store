@@ -15,8 +15,6 @@ And using B-JDE token gives you 15% off https://sideswap.io/token-market/
 
 Be aware of shipping costs and customs issues. Verify if there is any customs issues in your area. If there is use a reseller if available.
 
-EU resellers:
+Resellers
 
-Austria https://gobrrr.me 
-
-UK https://bitcoinbrabant.com/
+https://blockstream.com/resellers/
